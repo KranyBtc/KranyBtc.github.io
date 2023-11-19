@@ -55,7 +55,7 @@
     "imageResize": true,
     "chatbutton": {},
     "favicon": "@PROJECT_PATH@/assets/images/img-6rdd5dhhtwsxcx4ef6qdkpaz-128x128.png",
-    "mbrsiteDomain": "nuxvyx0x19",
+    "mbrsiteDomain": "o2he0i4eoh",
     "usedWebp": false,
     "cssOptimize": false,
     "lazyLoad": false,
@@ -66,7 +66,6 @@
     "pwa-switcher": false,
     "screenshot": "screenshot.png",
     "publishChangesOnly": true,
-    "publishType": "mbrsite",
     "cookiesAlert": false,
     "gdpr": false
   },
