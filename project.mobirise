@@ -165,7 +165,7 @@
             },
             ".mbr-section-title": {
               "color": "#edefeb",
-              "text-align": "right"
+              "text-align": "center"
             },
             ".item-title": {
               "text-align": "left"
